@@ -1,0 +1,81 @@
+product_id,product_name,category,price
+1,Laptop,Electronics,429.6
+2,Phone,Electronics,208.21
+3,Tablet,Electronics,445.01
+4,Headphones,Electronics,426.95
+5,Camera,Electronics,468.46
+6,Smart Watch,Electronics,394.82
+7,Speaker,Electronics,337.8
+8,Monitor,Electronics,294.54
+9,T-Shirt,Clothing,192.42
+10,Jeans,Clothing,470.67
+11,Dress,Clothing,487.1
+12,Jacket,Clothing,149.12
+13,Sweater,Clothing,159.63
+14,Shoes,Clothing,247.95
+15,Hat,Clothing,229.73
+16,Scarf,Clothing,497.28
+17,Lamp,Home & Garden,96.2
+18,Chair,Home & Garden,18.86
+19,Table,Home & Garden,252.01
+20,Bed,Home & Garden,97.62
+21,Sofa,Home & Garden,189.57
+22,Desk,Home & Garden,374.64
+23,Mirror,Home & Garden,363.26
+24,Bookshelf,Home & Garden,160.95
+25,Running Shoes,Sports,275.84
+26,Tennis Racket,Sports,259.32
+27,Yoga Mat,Sports,321.8
+28,Bicycle,Sports,132.73
+29,Dumbbells,Sports,299.04
+30,Basketball,Sports,489.66
+31,Football,Sports,248.5
+32,Golf Set,Sports,453.99
+33,Fiction Novel,Books,222.85
+34,Non-Fiction,Books,181.54
+35,Biography,Books,326.1
+36,Self-Help,Books,337.77
+37,Science Book,Books,433.44
+38,History Book,Books,122.79
+39,Mystery,Books,254.6
+40,Cookbook,Books,290.28
+41,Action Figure,Toys,386.59
+42,Board Game,Toys,31.37
+43,LEGO Set,Toys,497.33
+44,Puzzle,Toys,240.27
+45,Doll,Toys,146.98
+46,Remote Car,Toys,442.91
+47,Building Blocks,Toys,376.38
+48,Trading Cards,Toys,477.01
+49,Face Cream,Beauty,172.07
+50,Shampoo,Beauty,280.85
+51,Lipstick,Beauty,290.42
+52,Foundation,Beauty,490.36
+53,Perfume,Beauty,46.92
+54,Face Mask,Beauty,159.79
+55,Body Lotion,Beauty,103.55
+56,Eye Shadow,Beauty,141.55
+57,Coffee,Food,247.79
+58,Chocolate,Food,192.62
+59,Snacks,Food,203.4
+60,Tea,Food,423.66
+61,Granola,Food,465.71
+62,Nuts,Food,44.5
+63,Olive Oil,Food,112.37
+64,Spices,Food,338.86
+65,Cabinet,Furniture,185.74
+66,Nightstand,Furniture,134.54
+67,Dresser,Furniture,154.69
+68,Wardrobe,Furniture,168.05
+69,Bench,Furniture,425.85
+70,Storage Box,Furniture,76.94
+71,Shelving Unit,Furniture,357.37
+72,Desk Organizer,Furniture,280.88
+73,Car Battery,Automotive,155.29
+74,Air Filter,Automotive,215.69
+75,Tire,Automotive,135.54
+76,Oil Can,Automotive,309.64
+77,Wiper Blade,Automotive,49.98
+78,Seat Cover,Automotive,12.54
+79,Floor Mat,Automotive,317.67
+80,Car Air Freshener,Automotive,105.19
